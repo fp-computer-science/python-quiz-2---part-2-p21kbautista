@@ -1,2 +1,5 @@
 Question 2
 You should have been checking if "not" was a substring in the word and if not, adding it to the beginning of the string.
+
+Question 3
+You did not convert the string directions to integer directions.
